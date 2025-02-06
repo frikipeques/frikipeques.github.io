@@ -1,6 +1,6 @@
 ---
 layout: post
-read_time: true
+read_time: false
 show_date: true
 title: "¡Hola mundo!"
 date: 2024-02-03
