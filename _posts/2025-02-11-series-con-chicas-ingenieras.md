@@ -15,9 +15,14 @@ description: "Recopilatorio de personajes femeninos en roles de ciencia o ingeni
 Hoy 11 de Febrero, coincidiendo con [el día de la mujer y la niña en la ciencia](https://11defebrero.org/), vamos a hacer una recopilación de personajes femeninos de series infantiles de animación que tengan un rol en ciencia o ingeniería.
 
 <center><img src='./assets/img/posts/chicas_stem/tweak.png' alt='Tweak, de los Octonautas'></center>
+
 **Tweak** es la mecánica de la tripulación de los Octonautas. Se encarga de diseño y mantenimento de toda su variopinta flota de vehículos submarinos (y en la segunda temporada también terrestres y voladores). Siempre piensa mejor mientras come zanahorias crudas requetecrujientes, y además, como suele ser en caso con las ingenieras, le encantan los videojuegos.
 
 **Los Octonautas** es una serie maravillosa para los más peques, en la que una tripulación multidisciplinar (tenemos aparte de la ingeniera un biologo, un pirata...) realiza misiones de investigación y rescate en la naturaleza. Cada episodio se centra en una criatura o un suceso natural real, por lo que es muy didactica, a la vez que monísima y entretenida. 
+
+<center><img src='./assets/img/posts/chicas_stem/ada.png' alt='Ada Magnífica, Científica'></center>
+
+**Ada Magnífica** es, como indíca el título de la serie, científica. Además de manual, porque siempre sigue el método científico a rajatabla. En esta serie tan didáctica para el público infantil, Ada y sus amigos (entre los que se cuenta, por cierto, otra chica STEM: **Rosa Pionera, ingeniera** - [test de Bechdel](https://es.wikipedia.org/wiki/Test_de_Bechdel): superado) hacen descubrimientos cotidianos siempre con la ciencia por delante, por lo que es muy didactica y entretenida para peques de todas las edades.
 
 <center><img src='./assets/img/posts/chicas_stem/rayo.png' alt='Rayo Arcoiris, de Chico Bun Bun'></center>
 
@@ -47,7 +52,7 @@ Por supuesto todos conocemos **Dragon Ball**, probablemente la serie de anime m�
 
 ¿Qué, os acordais de esta serie? **Chip y Chop Guardiantes Rescatadores** es una *pasada* de serie de acción y aventuras de los 90, y ya por aquel entonces teníamos a **Gaddie**, una chica ingeniera en la tripulación, ¡para que luego digáis que ahora todo es woke!
 
-Como toda serie viejuna, no se libra de tener momentos en los que el personaje se cosifica un poco por parte de otros personajes masculinos, pero son bastante anecdóticos. La recomiendo por sus tramas complejas y dramáticas para niños a partir de primaria.
+Como toda serie viejuna, no se libra de tener momentos en los que los chicos se ponen babosos con ella, pero son bastante anecdóticos. La recomiendo por sus tramas complejas para niños a partir de primaria.
 
 <center><img src='./assets/img/posts/chicas_stem/oria.png' alt='Oria, de Horizontes Pokémon'></center>
 
