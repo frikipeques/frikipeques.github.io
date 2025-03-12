@@ -626,6 +626,18 @@ svg {
   opacity: .8;
   color: var(--accent-dark);
 }
+.main-nav ul li a.social {
+  padding: 0px 15px;
+  text-transform: lowercase;
+}
+.main-nav ul li p {
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: var(--font2-regular);
+  font-size: 20px;
+  color: var(--main);
+}
 .menu-icon-container {
   width: 25%;
   text-align: left;
@@ -967,9 +979,17 @@ svg.menu-icon-house {
 .footer-nav a {
   color: var(--grey4);
   text-decoration: none;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: var(--font2-bold);
   font-family: var(--font2);
+}
+.footer-nav span {
+  color: var(--grey4);
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: var(--font2-bold);
+  font-family: var(--font2);
+  margin-right: 10px;
 }
 .footer-wrapper a:hover {
   opacity: 0.6
