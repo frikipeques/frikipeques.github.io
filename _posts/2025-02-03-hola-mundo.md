@@ -4,7 +4,7 @@ read_time: false
 show_date: true
 title: "¡Hola mundo!"
 date: 2025-02-03
-img: posts/dibus_sin_logo.png
+img: posts/2025-02-03-hola-mundo/banner.png
 tags: [noticias]
 category: noticias
 author: Mar Bartolomé
