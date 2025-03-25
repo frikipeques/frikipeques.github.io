@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: true
 title: "Chicas científicas o ingenieras en series de dibujos"
-date: 2024-02-11
+date: 2025-02-11
 img: posts/bannerstem.jpg
 tags: [series]
 category: series

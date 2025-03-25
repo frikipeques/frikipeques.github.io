@@ -4,7 +4,7 @@ published: true
 read_time: false
 show_date: true
 title: "Los mejores juegos de Super Mario para principiantes"
-date: 2024-02-18
+date: 2025-03-10
 img: posts/bannergames.jpg
 tags: [videojuegos]
 category: videojuegos

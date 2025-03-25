@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: true
 title: "¡Hola mundo!"
-date: 2024-02-03
+date: 2025-02-03
 img: posts/dibus_sin_logo.png
 tags: [noticias]
 category: noticias

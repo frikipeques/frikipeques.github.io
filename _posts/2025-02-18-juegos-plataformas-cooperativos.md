@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: true
 title: "Juegos de plataformas cooperativos para jugar en familia"
-date: 2024-02-18
+date: 2025-02-18
 img: posts/bannergames2.jpg
 tags: [videojuegos]
 category: videojuegos
